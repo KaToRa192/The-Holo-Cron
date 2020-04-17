@@ -8,7 +8,7 @@
 .avatar-1BDn8e[src*="229911822084472851"] + h2::after,
 .avatar-1BDn8e[src*="213220786805145600"] + h2::after,
 .avatar-1BDn8e[src*="471622472098381838"] + h2::after,
-.avatar-1BDn8e[src*="236006926406778881"] + h2::after,
+.avatar-1BDn8e[src*="443691401386000386"] + h2::after,
 .avatar-1BDn8e[src*="282138006738042880"] + h2::after,
 .avatar-1BDn8e[src*="446316212188610580"] + h2::after,
 .avatar-1BDn8e[src*="174868361040232448"] + h2::after,
@@ -36,7 +36,7 @@
 .avatar-1BDn8e[src*="229911822084472851"]:hover + h2::after,
 .avatar-1BDn8e[src*="213220786805145600"]:hover + h2::after,
 .avatar-1BDn8e[src*="471622472098381838"]:hover + h2::after,
-.avatar-1BDn8e[src*="236006926406778881"]:hover + h2::after,
+.avatar-1BDn8e[src*="443691401386000386"]:hover + h2::after,
 .avatar-1BDn8e[src*="282138006738042880"]:hover + h2::after,
 .avatar-1BDn8e[src*="446316212188610580"]:hover + h2::after,
 .avatar-1BDn8e[src*="174868361040232448"]:hover + h2::after,
@@ -267,11 +267,11 @@
   --main-color: rgb(160, 92, 180);
 }
 
-.avatar-1BDn8e[src*="236006926406778881"] + h2::after {
+.avatar-1BDn8e[src*="443691401386000386"] + h2::after {
   background-image: url(https://i.imgur.com/zs4hzCl.jpg);
 }
 
-.avatar-1BDn8e[src*="236006926406778881"]:hover + h2::after {
+.avatar-1BDn8e[src*="443691401386000386"]:hover + h2::after {
   content: "--------";
   color: transparent;
   text-shadow: none;
