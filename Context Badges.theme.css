@@ -2,14 +2,17 @@
 	--user-popout-position: center;
 }
 
------- Kyu
+/*Kyu*/
 [user_by_bdfdb="330685980354805770"], [aria-label="330685980354805770"] {
     --user-background: url(https://i.imgur.com/vXLoJWl.jpg);
 }
 
 
 
------- KaToRa
+
+
+/*KaToRa*/
+
 [user_by_bdfdb*="229911822084472851"],
 [aria-label*="229911822084472851,"],
 [user_by_bdfdb*="365643222522920960"],
