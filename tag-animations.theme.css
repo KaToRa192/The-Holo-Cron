@@ -1,12 +1,12 @@
 /*//META{"name":"Tag Animation","description":"Changes discord's icon scheme to google's material icons.","author":"KaToRa","version":"1.0", "website":"https://bit.ly/derealised", "source":"https://github.com/tropix126/betterDiscordStuff/blob/master/materialcons/"}*//**/
 /* grow in with pulse */
 .avatar-1BDn8e[src*="229911822084472851"]:hover + h2:after,
-.avatar-1BDn8e[src*="376788634784890890"]:hover + h2::after,
+.avatar-1BDn8e[src*="330685980354805770"]:hover + h2:after,
 .avatar-1BDn8e[src*="471622472098381838"]:hover + h2::after,
 .avatar-1BDn8e[src*="478954486715514897"]:hover + h2::after,
 .avatar-1BDn8e[src*="353857406381326336"]:hover + h2::after,
 .avatar-1BDn8e[src*="166365757561634816"]:hover + h2::after,
-.avatar-1BDn8e[src*="213220786805145600"]:hover + h2:after,
+.avatar-1BDn8e[src*="213220786805145600"]:hover + h2::after,
 .avatar-1BDn8e[src*="152430800241950720"]:hover + h2::after,
 .avatar-1BDn8e[src*="438846426441711616"]:hover + h2::after,
 .avatar-1BDn8e[src*="95657348390977536"]:hover + h2::after,
