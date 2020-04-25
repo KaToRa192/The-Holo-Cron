@@ -182,14 +182,14 @@
   text-align: center;
 }
 
-.avatar-1BDn8e[src*="703502512212148274"] + h2::after {
+.avatar-1BDn8e[src*="354429753261948938"] + h2::after {
   background-image: url(https://i.vgy.me/5N3Mk9.png);
   transform: scale(1.2);
   bottom: -30px;
   left: -24px;
 }
 
-.avatar-1BDn8e[src*="703502512212148274"]:hover + h2::after {
+.avatar-1BDn8e[src*="354429753261948938"]:hover + h2::after {
   background-image: url(https://i.vgy.me/9Fu1NR.gif);
   content: "Gibbu";
 }
