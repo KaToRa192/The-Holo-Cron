@@ -182,15 +182,15 @@
   text-align: center;
 }
 
-.avatar-1BDn8e[src*="174868361040232448"] + h2::after {
-  background-image: url(https://i.imgur.com/jAyDjY8.png);
+.avatar-1BDn8e[src*="703502512212148274"] + h2::after {
+  background-image: url(https://i.vgy.me/5N3Mk9.png);
   transform: scale(1.2);
   bottom: -30px;
   left: -24px;
 }
 
-.avatar-1BDn8e[src*="174868361040232448"]:hover + h2::after {
-  background-image: url(https://i.imgur.com/ApwM2cC.gif);
+.avatar-1BDn8e[src*="703502512212148274"]:hover + h2::after {
+  background-image: url(https://i.vgy.me/9Fu1NR.gif);
   content: "Gibbu";
 }
 
