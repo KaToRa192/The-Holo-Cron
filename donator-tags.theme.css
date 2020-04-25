@@ -9,7 +9,7 @@
 .avatar-1BDn8e[src*="213220786805145600"] + h2::after,
 .avatar-1BDn8e[src*="471622472098381838"] + h2::after,
 .avatar-1BDn8e[src*="443691401386000386"] + h2::after,
-.avatar-1BDn8e[src*="282138006738042880"] + h2::after,
+.avatar-1BDn8e[src*="354429753261948938"] + h2::after,
 .avatar-1BDn8e[src*="446316212188610580"] + h2::after,
 .avatar-1BDn8e[src*="174868361040232448"] + h2::after,
 .avatar-1BDn8e[src*="234148582523928576"] + h2::after,
@@ -36,7 +36,7 @@
 .avatar-1BDn8e[src*="229911822084472851"]:hover + h2::after,
 .avatar-1BDn8e[src*="213220786805145600"]:hover + h2::after,
 .avatar-1BDn8e[src*="471622472098381838"]:hover + h2::after,
-.avatar-1BDn8e[src*="443691401386000386"]:hover + h2::after,
+.avatar-1BDn8e[src*="354429753261948938"]:hover + h2::after,
 .avatar-1BDn8e[src*="282138006738042880"]:hover + h2::after,
 .avatar-1BDn8e[src*="446316212188610580"]:hover + h2::after,
 .avatar-1BDn8e[src*="174868361040232448"]:hover + h2::after,
@@ -121,12 +121,12 @@
 
 
 /* ============== DONATOR/DEV TAGS ============== */
-.avatar-1BDn8e[src*="278516985640517632"] + h2::after {
-  background-image: url(https://i.imgur.com/BKCaltF.png);
+.avatar-1BDn8e[src*="354429753261948938"] + h2::after {
+  background-image: url(https://i.vgy.me/5N3Mk9.png);
 }
 
-.avatar-1BDn8e[src*="278516985640517632"]:hover + h2::after {
-  background-image: url(https://i.imgur.com/rU9AMsy.gif);
+.avatar-1BDn8e[src*="354429753261948938"]:hover + h2::after {
+  background-image: url(https://i.vgy.me/9Fu1NR.gif);
   --main-color: rgb(10, 8, 22);
   color: #DC143C;
   content: "Daemon of Debauchery";
