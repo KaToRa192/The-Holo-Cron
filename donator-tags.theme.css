@@ -1,10 +1,10 @@
 /* ======= SPECIAL TAGS ========= */
 /* badges */
-.avatar-1BDn8e[src*="166365757561634816"] + h2::after,
-.avatar-1BDn8e[src*="402272736665272320"] + h2::after,
-.avatar-1BDn8e[src*="244392852950482944"] + h2::after,
-.avatar-1BDn8e[src*="229911822084472851"] + h2::after,
-.avatar-1BDn8e[src*="213220786805145600"] + h2::after,
+.avatar-1BDn8e[src*="478954486715514897"] + h2::after, /*arx*/
+.avatar-1BDn8e[src*="402272736665272320"] + h2::after, /*ky*/
+.avatar-1BDn8e[src*="244392852950482944"] + h2::after, /*lank*/
+.avatar-1BDn8e[src*="229911822084472851"] + h2::after, /*KaToRa*/
+.avatar-1BDn8e[src*=""] + h2::after,
 .avatar-1BDn8e[src*="231827402102276096"] + h2::after,
 .avatar-1BDn8e[src*="236006926406778881"] + h2::after,
 .avatar-1BDn8e[src*="282138006738042880"] + h2::after,
@@ -29,11 +29,11 @@
 
 
 /* on hover */
-.avatar-1BDn8e[src*="166365757561634816"]:hover + h2::after,
-.avatar-1BDn8e[src*="402272736665272320"]:hover + h2::after,
-.avatar-1BDn8e[src*="244392852950482944"]:hover + h2::after,
-.avatar-1BDn8e[src*="229911822084472851"]:hover + h2::after,
-.avatar-1BDn8e[src*="213220786805145600"]:hover + h2::after,
+.avatar-1BDn8e[src*="478954486715514897"]:hover + h2::after, /*Arx*/
+.avatar-1BDn8e[src*="402272736665272320"]:hover + h2::after, /*ky*/
+.avatar-1BDn8e[src*="244392852950482944"]:hover + h2::after, /*lank*/
+.avatar-1BDn8e[src*="229911822084472851"]:hover + h2::after, /*KaToRa*/
+.avatar-1BDn8e[src*=""]:hover + h2::after,
 .avatar-1BDn8e[src*="231827402102276096"]:hover + h2::after,
 .avatar-1BDn8e[src*="236006926406778881"]:hover + h2::after,
 .avatar-1BDn8e[src*="282138006738042880"]:hover + h2::after,
@@ -93,13 +93,13 @@
 }
 
   /* ellie */
-.contents-2mQqc9 .avatar-1BDn8e[src*="213220786805145600"] {
+.contents-2mQqc9 .avatar-1BDn8e[src*="478954486715514897"] {
   animation: eve-glow 1s ease-in-out infinite alternate;
   filter: drop-shadow(0 0 5px #feb3de);
   transition: filter 200ms ease-in-out;
 }
 
-.contents-2mQqc9 .avatar-1BDn8e[src*="213220786805145600"]:hover {
+.contents-2mQqc9 .avatar-1BDn8e[src*="478954486715514897"]:hover {
   animation-play-state: paused;
 }
 
@@ -234,17 +234,17 @@
   0 0px 3px rgb(78, 11, 11), 0 0px 3px rgb(78, 11, 11), 0 0px 3px rgb(78, 11, 11) !important;
 }
 
-.avatar-1BDn8e[src*="213220786805145600"] + h2::after {
-  background-image: url(https://i.imgur.com/RvOW9GE.png);
+.avatar-1BDn8e[src*="478954486715514897"] + h2::after {
+  background-image: url(https://i.vgy.me/P6zXH3.gif);
   transform: scale(1.2);
   bottom: -30px;
   left: -24px;
 }
 
-.avatar-1BDn8e[src*="213220786805145600"]:hover + h2::after {
-  content: "flower girl";
+.avatar-1BDn8e[src*="478954486715514897"]:hover + h2::after {
+  content: "XoD Leader";
   color: #FFF;
-  background-image: url(https://i.imgur.com/bUmWjxM.gif);
+  background-image: url(https://i.vgy.me/7WaOa8.gif);
   --main-color: pink;
 }
 
