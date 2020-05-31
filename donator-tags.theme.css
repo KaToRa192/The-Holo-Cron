@@ -2,7 +2,7 @@
 /* badges */
 .avatar-1BDn8e[src*="478954486715514897"] + h2::after, /*arx*/
 .avatar-1BDn8e[src*="330685980354805770"] + h2::after, /*ky*/
-.avatar-1BDn8e[src*="244392852950482944"] + h2::after, /*lank*/
+.avatar-1BDn8e[src*="354429753261948938"] + h2::after, /*lank*/
 .avatar-1BDn8e[src*="229911822084472851"] + h2::after, /*KaToRa*/
 .avatar-1BDn8e[src*=""] + h2::after,
 .avatar-1BDn8e[src*="231827402102276096"] + h2::after,
@@ -31,7 +31,7 @@
 /* on hover */
 .avatar-1BDn8e[src*="478954486715514897"]:hover + h2::after, /*Arx*/
 .avatar-1BDn8e[src*="330685980354805770"]:hover + h2::after, /*ky*/
-.avatar-1BDn8e[src*="244392852950482944"]:hover + h2::after, /*lank*/
+.avatar-1BDn8e[src*="354429753261948938"]:hover + h2::after, /*lank*/
 .avatar-1BDn8e[src*="229911822084472851"]:hover + h2::after, /*KaToRa*/
 .avatar-1BDn8e[src*=""]:hover + h2::after,
 .avatar-1BDn8e[src*="231827402102276096"]:hover + h2::after,
@@ -225,10 +225,15 @@
 .avatar-1BDn8e[src*="354429753261948938"]:hover + h2::after {
   background-image: url(https://i.vgy.me/GHUqhY.gif);
   content: "Ollie";
+  text-shadow: -1px 0 black, 
+  0 1px black, 
+  1px 0 black, 
+  0 -1px black !important;
 }
 
 .avatar-1BDn8e[src*="330685980354805770"] + h2::after {
   background-image: url(https://i.vgy.me/tSLGvF.png);
+  transform: scale(1.2);
   bottom: -30px;
   left: -24px;
 }
@@ -238,8 +243,10 @@
   content: "The CS User";
   color: white;
   --main-color: rgb(78, 11, 11);
-  text-shadow: -1px 0 rgb(78, 11, 11), 0 1px rgb(78, 11, 11), 1px 0 rgb(78, 11, 11), 0 -1px rgb(78, 11, 11),
-  0 0px 3px rgb(78, 11, 11), 0 0px 3px rgb(78, 11, 11), 0 0px 3px rgb(78, 11, 11) !important;
+  text-shadow: -1px 0 black, 
+  0 1px black, 
+  1px 0 black, 
+  0 -1px black !important;
 }
 
 .avatar-1BDn8e[src*="478954486715514897"] + h2::after {
@@ -254,6 +261,10 @@
   color: #FFF;
   background-image: url(https://i.vgy.me/7WaOa8.gif);
   --main-color: pink;
+  text-shadow: -1px 0 black, 
+  0 1px black, 
+  1px 0 black, 
+  0 -1px black !important;
 }
 
 .avatar-1BDn8e[src*="229911822084472851"] + h2::after {
