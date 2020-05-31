@@ -68,7 +68,7 @@
 
 /* My friends and my borders/glow */
   /* mine */
-.contents-2mQqc9 .avatar-1BDn8e[src*="330685980354805770"] + h2::before{
+.contents-2mQqc9 .avatar-1BDn8e[src*=""] + h2::before{
   content: '';
   position: absolute;
   height: 44px;
@@ -227,7 +227,7 @@
 
 .avatar-1BDn8e[src*="330685980354805770"]:hover + h2::after {
   background-image: url(https://i.vgy.me/modN7e.gif);
-  content: "Zahl";
+  content: "The CS User";
   color: white;
   --main-color: rgb(78, 11, 11);
   text-shadow: -1px 0 rgb(78, 11, 11), 0 1px rgb(78, 11, 11), 1px 0 rgb(78, 11, 11), 0 -1px rgb(78, 11, 11),
