@@ -1,7 +1,7 @@
 /* ======= SPECIAL TAGS ========= */
 /* badges */
 .avatar-1BDn8e[src*="478954486715514897"] + h2::after, /*arx*/
-.avatar-1BDn8e[src*="402272736665272320"] + h2::after, /*ky*/
+.avatar-1BDn8e[src*="330685980354805770"] + h2::after, /*ky*/
 .avatar-1BDn8e[src*="244392852950482944"] + h2::after, /*lank*/
 .avatar-1BDn8e[src*="229911822084472851"] + h2::after, /*KaToRa*/
 .avatar-1BDn8e[src*=""] + h2::after,
@@ -30,7 +30,7 @@
 
 /* on hover */
 .avatar-1BDn8e[src*="478954486715514897"]:hover + h2::after, /*Arx*/
-.avatar-1BDn8e[src*="402272736665272320"]:hover + h2::after, /*ky*/
+.avatar-1BDn8e[src*="330685980354805770"]:hover + h2::after, /*ky*/
 .avatar-1BDn8e[src*="244392852950482944"]:hover + h2::after, /*lank*/
 .avatar-1BDn8e[src*="229911822084472851"]:hover + h2::after, /*KaToRa*/
 .avatar-1BDn8e[src*=""]:hover + h2::after,
@@ -68,7 +68,7 @@
 
 /* My friends and my borders/glow */
   /* mine */
-.contents-2mQqc9 .avatar-1BDn8e[src*="402272736665272320"] + h2::before{
+.contents-2mQqc9 .avatar-1BDn8e[src*="330685980354805770"] + h2::before{
   content: '';
   position: absolute;
   height: 44px;
@@ -219,14 +219,14 @@
   content: "Gibbu";
 }
 
-.avatar-1BDn8e[src*="140012296910012416"] + h2::after {
-  background-image: url(https://discordapp.com/assets/764836c1d982d6a999ef5ee6ab11eb87.svg);
+.avatar-1BDn8e[src*="330685980354805770"] + h2::after {
+  background-image: url(https://i.vgy.me/tSLGvF.png);
   bottom: -30px;
   left: -24px;
 }
 
-.avatar-1BDn8e[src*="140012296910012416"]:hover + h2::after {
-  background-image: url(https://i.imgur.com/7rTizt9.gif);
+.avatar-1BDn8e[src*="330685980354805770"]:hover + h2::after {
+  background-image: url(https://i.vgy.me/modN7e.gif);
   content: "Zahl";
   color: white;
   --main-color: rgb(78, 11, 11);
