@@ -42,7 +42,7 @@
 .avatar-1BDn8e[src*="131414719666847745"]:hover + h2::after,
 .avatar-1BDn8e[src*="147889058670968844"]:hover + h2::after,
 .avatar-1BDn8e[src*="197477050569719808"]:hover + h2::after,
-.avatar-1BDn8e[src*="597905003717459968"]:hover + h2::after {
+.avatar-1BDn8e[src*="330685980354805770"]:hover + h2::after {
   animation: popoutanim .2s;
 }
 
