@@ -223,12 +223,14 @@
 }
 
 .avatar-1BDn8e[src*="354429753261948938"]:hover + h2::after {
+  content: 'KaToRa';
+  color: #ffe256;
+  --main-color: #ffe256;
   background-image: url(https://i.vgy.me/GHUqhY.gif);
-  content: "Ollie";
   text-shadow: -1px 0 black, 
-  0 1px black, 
-  1px 0 black, 
-  0 -1px black !important;
+    0 1px black, 
+    1px 0 black, 
+    0 -1px black !important;
 }
 
 .avatar-1BDn8e[src*="330685980354805770"] + h2::after {
